@@ -69,8 +69,9 @@ app.whenReady().then(()=>{
 
   // 2秒経過したらアプリ画面を表示
   setTimeout(()=>{
-    splashWin.destroy()     // スプラッシュを削除
-    createWindow()          // アプリを開始
+    splashWin.hide()       // スプラッシュを非表示
+    createWindow()         // アプリを開始
+    splashWin.destroy()    // スプラッシュを削除
   }, 2000)
 })
 
