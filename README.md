@@ -1,7 +1,7 @@
 # Electron Sample - splash
 アプリ起動時にスプラッシュ画面を表示するサンプルです。
 
-<video src="doc/movie/electron-splash.mp4" controls autoplay></video>
+<img src="doc/movie/electron-splash.gif">
 
 ## 解説ページ
 * [[Electron] アプリ起動時にスプラッシュ画面を表示する
