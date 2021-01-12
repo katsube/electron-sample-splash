@@ -19,8 +19,7 @@
     "url": "https://github.com/katsube/electron-sample-splash/issues"
   },
   "homepage": "https://github.com/katsube/electron-sample-splash#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "electron": "^11.1.1",
     "electron-builder": "^22.9.1"
